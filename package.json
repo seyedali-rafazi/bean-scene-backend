@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js",
-    "vercel-build":"echo hello"
+    "build": "echo 'Build step is not required for this project'",
+    "vercel-build": "echo hello"
   },
   "keywords": [],
   "author": "",
