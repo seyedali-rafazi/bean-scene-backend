@@ -1,8 +1,8 @@
-# Food Ordering Backend App
-### See [Live](https://tarkhineh-react.liara.run/) 
+#  Coffee Shop Backend App
+### See [Live](https://beanscene-coffee.vercel.app/)
 
 
-This is the backend application for a food ordering platform, built using Node.js, Express.js, and MongoDB. The app provides a RESTful API for handling user authentication, restaurant management, menu management, order processing, and other functionalities.
+This is the backend application for a Coffee ordering platform, built using Node.js, Express.js, and MongoDB. The app provides a RESTful API for handling user authentication, restaurant management, menu management, order processing, and other functionalities.
 
 ## Features
 
